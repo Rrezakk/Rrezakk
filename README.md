@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rrezakk
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on desktop backend applications
+- 💞️ I’m looking to collaborate on .Net backend applications
 - 📫 How to reach me: vk.com/r_rezak_k
 -Langs: En, Ru
 
